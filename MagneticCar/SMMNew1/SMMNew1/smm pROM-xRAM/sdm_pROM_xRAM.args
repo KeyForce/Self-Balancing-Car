@@ -1,0 +1,28 @@
+"./Generated_Code/TI1_c.obj"
+"./Generated_Code/PWMC1_c.obj"
+"./Generated_Code/LED_c.obj"
+"./Generated_Code/IFsh1_c.obj"
+"./Generated_Code/F8013_C.obj"
+"./Generated_Code/Cpu_c.obj"
+"./Generated_Code/COUNTER2_c.obj"
+"./Generated_Code/COUNTER1_c.obj"
+"./Generated_Code/AS1_c.obj"
+"./Generated_Code/AD1_c.obj"
+"./Project Settings/Startup_Code/56F80xx_init_asm.obj"
+"./Sources/main_c.obj"
+"./Sources/SMMNew1_c.obj"
+"./Sources/Events_c.obj"
+"./User Modules/debug_c.obj"
+"./User Modules/config_c.obj"
+"./User Modules/carsub_c.obj"
+"./User Modules/f8013_c.obj"
+-g
+-nostdlib
+"$(ProjDirPath)/Project Settings/Linker_Files/smm_pROM_xRAM.cmd"
+-main F_EntryPoint
+-L"$(MCUToolsBaseDirEnv)/M56800E Support/msl/MSL_C/DSP_56800E/lib"
+-map
+-srec
+-sreclength 252 
+-l${VALUE}"$(MCUToolsBaseDirEnv)/m56800e support/runtime_56800e/lib/runtime 56800e.lib"
+-l${VALUE}"$(MCUToolsBaseDirEnv)/m56800e support/msl/msl_c/dsp_56800e/lib/msl c 56800e.lib"

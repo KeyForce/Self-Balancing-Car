@@ -1,0 +1,52 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/LED.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502691" FileType="45637" CompNumb="657" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502634" FileType="45637" CompNumb="484" />
+      <File Name="Generated_Code/PWMC1.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502676" FileType="45637" CompNumb="665" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502638" FileType="45637" />
+      <File Name="Generated_Code/LED.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502689" FileType="45637" CompNumb="657" />
+      <File Name="Generated_Code/PWMC1.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502674" FileType="45637" CompNumb="665" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502631" FileType="45637" CompNumb="484" />
+      <File Name="Documentation/SMMNew1-1.txt" FileDate="2016-03-01, 17:45:02" FileAge="1456825502714" FileType="3072" />
+      <File Name="Sources/main.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502636" FileType="128" />
+      <File Name="Project Settings/Startup_Code/56F80xx_init.asm" FileDate="2016-03-01, 17:44:35" FileAge="1456825475350" FileType="16384" CompNumb="484" />
+      <File Name="Generated_Code/TI1.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502660" FileType="45637" CompNumb="668" />
+      <File Name="Generated_Code/TI1.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502657" FileType="45637" CompNumb="668" />
+      <File Name="Generated_Code/assert.h" FileDate="1970-01-01, 07:59:59" FileAge="-1" FileType="45637" />
+      <File Name="Generated_Code/COUNTER2.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502665" FileType="45637" CompNumb="667" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2016-03-01, 17:45:02" FileAge="1456825502091" FileType="16384" CompNumb="484" />
+      <File Name="Documentation/SMMNew1-1_Settings.xml" FileDate="2016-03-01, 17:45:02" FileAge="1456825502707" FileType="3072" />
+      <File Name="Generated_Code/COUNTER2.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502662" FileType="45637" CompNumb="667" />
+      <File Name="Sources/Events.h" FileDate="2016-03-01, 17:44:35" FileAge="1456825475069" FileType="131328" />
+      <File Name="Generated_Code/AD1.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502682" FileType="45637" CompNumb="662" />
+      <File Name="Sources/Events.c" FileDate="2016-03-01, 17:44:35" FileAge="1456825475086" FileType="131328" />
+      <File Name="Generated_Code/COUNTER1.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502670" FileType="45637" CompNumb="666" />
+      <File Name="Project Settings/Linker_Files/smm_pROM_xRAM.cmd" FileDate="2016-03-01, 17:45:02" FileAge="1456825502628" FileType="8" CompNumb="484" />
+      <File Name="Generated_Code/AD1.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502679" FileType="45637" CompNumb="662" />
+      <File Name="Documentation/SMMNew1-1_SIGNALS.txt" FileDate="2016-03-01, 17:45:02" FileAge="1456825502697" FileType="3072" />
+      <File Name="Generated_Code/COUNTER1.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502667" FileType="45637" CompNumb="666" />
+      <File Name="Generated_Code/IFsh1.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502654" FileType="45637" CompNumb="669" />
+      <File Name="Documentation/doxygen/SMMNew1-1.txt" FileDate="2016-03-01, 17:45:02" FileAge="1456825502621" FileType="45637" CompNumb="484" />
+      <File Name="Generated_Code/AS1.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502686" FileType="45637" CompNumb="658" />
+      <File Name="Generated_Code/IFsh1.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502651" FileType="45637" CompNumb="669" />
+      <File Name="Generated_Code/AS1.c" FileDate="2016-03-01, 17:45:02" FileAge="1456825502684" FileType="45637" CompNumb="658" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2016-03-01, 17:45:02" FileAge="1456825502619" FileType="45637" CompNumb="484" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502639" FileType="45637" />
+      <File Name="Generated_Code/Vectors.c" FileDate="1970-01-01, 07:59:59" FileAge="-1" FileType="45637" CompNumb="484" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2016-03-01, 17:45:02" FileAge="1456825502617" FileType="45637" CompNumb="484" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502641" FileType="45637" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2016-03-01, 17:45:02" FileAge="1456825502649" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>1</CodeGenReference>
+</CodeGenerationInfo>

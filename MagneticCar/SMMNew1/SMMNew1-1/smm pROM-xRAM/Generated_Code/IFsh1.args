@@ -1,0 +1,24 @@
+-g
+-i
+"$(ProjDirPath)/Generated_Code"
+-i
+"$(ProjDirPath)/Sources"
+-ir
+"$(MAGNETICCAR)/SMMNew1"
+-ir
+"$(MCUToolsBaseDirEnv)/M56800E Support/Runtime_56800E/lib"
+-ir
+"$(FREESCALE)/F8013"
+-I-
+-i
+"$(MCUToolsBaseDirEnv)/M56800E Support/msl/MSL_C/MSL_Common/Include"
+-I-
+-i
+"$(MCUToolsBaseDirEnv)/M56800E Support/msl/MSL_C/DSP_56800E/prefix"
+-I-
+-ir
+"$(MCUToolsBaseDirEnv)/M56800E Support"
+-opt speed
+-inline nobottomup
+-sprog
+-requireprotos

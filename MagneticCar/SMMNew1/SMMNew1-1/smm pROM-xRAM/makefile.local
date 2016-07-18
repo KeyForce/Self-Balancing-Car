@@ -1,0 +1,14 @@
+################################################################################
+# These macros are used by makefiles and argument files.
+# When a space is included in the path and quotes (") cannot be used,
+# a _ESCAPE version of the macro is added that escapes the space with backslash (\).
+################################################################################
+
+export GNU_Make_Install_DirEnv=$(CWInstallLocationEnv)/gnu/bin
+export DSC_ToolsDirEnv=$(CWInstallLocationEnv)/MCU/DSP56800x_EABI_Tools/command_line_tools
+export FREESCALE=D:/Freescale
+export ProjDirPath=D:/Freescale/Magnetic/MagneticCar/SMMNew1/SMMNew1-1
+export CWInstallLocationEnv=E:/Program Files (x86)/CW MCU v10.6
+export MAGNETICCAR=D:/Freescale/Magnetic/MagneticCar
+export APPCODE=D:/Freescale/Magnetic/MagneticCar/SMMNew1/appcode
+export MCUToolsBaseDirEnv=$(CWInstallLocationEnv)/MCU

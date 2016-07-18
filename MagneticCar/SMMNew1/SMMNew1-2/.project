@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SMMNew1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.freescale.processorexpert.core.expertprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.freescale.processorexpert.core.expertprojectnature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>User Modules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>support</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>User Modules/F8013.C</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/appcode/f8013.c</locationURI>
+		</link>
+		<link>
+			<name>User Modules/F8013.H</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/appcode/f8013.h</locationURI>
+		</link>
+		<link>
+			<name>User Modules/carsub.C</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/appcode/carsub.c</locationURI>
+		</link>
+		<link>
+			<name>User Modules/carsub.h</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/appcode/carsub.h</locationURI>
+		</link>
+		<link>
+			<name>User Modules/config.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/appcode/config.c</locationURI>
+		</link>
+		<link>
+			<name>User Modules/config.h</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/appcode/config.h</locationURI>
+		</link>
+		<link>
+			<name>User Modules/debug.c</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/appcode/debug.c</locationURI>
+		</link>
+		<link>
+			<name>User Modules/debug.h</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_ProjectDir/appcode/debug.h</locationURI>
+		</link>
+		<link>
+			<name>support/lib</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>support/lib/MSL C 56800E.lib</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_Compiler/m56800e%20support/msl/msl_c/dsp_56800e/lib/msl%20c%2056800e.lib</locationURI>
+		</link>
+		<link>
+			<name>support/lib/Runtime 56800E.Lib</name>
+			<type>1</type>
+			<locationURI>CW_IMPORTER_Compiler/m56800e%20support/runtime_56800e/lib/runtime%2056800e.lib</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>CW_IMPORTER_Compiler</name>
+			<value>$%7BPARENT-1-ECLIPSE_HOME%7D/mcu</value>
+		</variable>
+		<variable>
+			<name>CW_IMPORTER_ProjectDir</name>
+			<value>$%7BPARENT-1-PROJECT_LOC%7D</value>
+		</variable>
+	</variableList>
+</projectDescription>
