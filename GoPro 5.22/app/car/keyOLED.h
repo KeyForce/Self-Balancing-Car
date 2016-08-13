@@ -1,0 +1,11 @@
+#ifndef _KeyOELD_H
+#define _KeyOELD_H
+
+extern int16 PARA1,PARA2,PARA3,PARA4,PARA5,PARA6,PARA7,PARA8,PARA9,PARA10,PARA11,PARA12,PARA13,PARA14,PARA15,PARA16,PARA17,PARA18,PARA19,PARA20,PARA21,PARA22,PARA23,PARA24; 
+
+void ShowParameter(int16* para, uint8 LCD_Row, uint8* ParaName);
+void SetLED(void);
+void InitFlashLed(void); 
+
+
+#endif
