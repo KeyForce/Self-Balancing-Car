@@ -1,0 +1,19 @@
+摄像头：
+ VCC（5v)  SCL（PTE10）  PCLK（PTD12）FODD（不接）   VTO(不接）   Y0（PTB0）Y2（PTB2）Y4（PTB4) Y6（PTB6)
+ GND       SDA（PTE12）  HREF（PTD13）VSYNC（PTA24)  RST（不接）  Y1（PTB1）Y3（PTB3）Y5（PTB5）Y7（PTB7）
+
+
+陀螺仪:
+ VCC（5V）  Z(不接引脚）    X(不接引脚）
+ GND        gyro(PTE0)      J(PTE1)
+
+左编码器：OUT(PTA10) VCC（5V）  GND    PTA11接在PTC0上（正交编码的B相必须接高）
+右编码器：OUT（PTA8）VCC（5V）  GND    PTA9接在PTC1上 （正交编码的B相必须接高）
+
+左电机：PTD7   PTD6
+右电机：PTD5   PTD4
+引脚排列顺序：   PTD7  PTD6  PTD5  PTD4（驱动板上）
+
+
+蓝牙模块：VCC（5V）  GND  TX（PTC3） RX（PTC4）
+以上都是按照实物的引脚顺序写的！
