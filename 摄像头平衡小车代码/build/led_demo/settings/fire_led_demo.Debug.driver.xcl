@@ -1,0 +1,25 @@
+ -B 
+
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=None" 
+
+"-p" 
+
+"E:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CONFIG\debugger\Freescale\MK60DN512xxx10.ddf" 
+
+"--semihosting" 
+
+"--device=MK60DN512xxx10" 
+
+"--pemicro_interface_type=OSJtag" 
+
+"--pemicro_reset_delay=" 
+
+"--drv_communication=USB1" 
+
+
+
+

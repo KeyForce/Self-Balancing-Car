@@ -1,0 +1,57 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=673968205
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Breakpoints2]
+Count=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "C:\Users\zhangtaotao\Desktop\6.28\src\common\startup.c" ""
+A1=_ "C:\Users\zhangtaotao\Desktop\K60\fire\src\common\startup.c" "C:\Users\zhangtaotao\Desktop\fire1234\src\common\startup.c"
+A2=_ "C:\Users\zhangtaotao\Desktop\K60\fire\src\cpu\sysinit.c" ""
+A3=_ "C:\Users\zhangtaotao\Desktop\fire1234\src\common\startup.c" ""
+A4=_ "C:\Users\zhangtaotao\Desktop\fire1234\src\cpu\sysinit.c" ""
+A5=_ "C:\Users\zhangtaotao\Desktop\fire1234\src\projects\fire_led_demo\main.c" ""
+A6=_ "C:\Users\zhangtaotao\Desktop\初步程序4.30\src\common\startup.c" ""
+A7=_ "C:\Users\zhangtaotao\Desktop\初步程序5.18\src\common\startup.c" ""
+A8=_ "C:\Users\zhangtaotao\Desktop\初步程序5.23\src\common\startup.c" ""
+A9=_ "C:\Users\zhangtaotao\Desktop\初步程序5.25\src\projects\fire_led_demo\main.c" ""
+A10=_ "C:\Users\zhangtaotao\Desktop\初步程序5.26\src\common\startup.c" ""
+A11=_ "C:\Users\zhangtaotao\Desktop\初步程序5.26\src\projects\fire_led_demo\main.c" ""
+A12=_ "C:\Users\zhangtaotao\Desktop\初步程序5.3\src\common\startup.c" ""
+A13=_ "C:\Users\zhangtaotao\Desktop\初步程序5.7\src\common\startup.c" ""
+A14=_ "C:\Users\zhangtaotao\Desktop\改造后参数调的还行的程序十字弯处理的不好\src\common\startup.c" ""
+A15=_ "C:\Users\zhangtaotao\Desktop\十字弯不成功但是跟踪比较好\src\common\startup.c" ""
+A16=_ "C:\Users\zhangtaotao\Desktop\十字弯不成功但是跟踪比较好\src\projects\fire_led_demo\main.c" ""
+A17=_ "C:\Users\zhangtaotao\Desktop\试车7.26下午再次修改\src\common\startup.c" ""
+A18=_ "C:\Users\zhangtaotao\Desktop\新建文件夹\7.12\src\common\startup.c" ""
+A19=_ "C:\Users\zhangtaotao\Desktop\新建文件夹\7.2\src\common\startup.c" ""
+A20=_ "C:\Users\zhangtaotao\Desktop\新建文件夹\7.5\src\common\startup.c" ""
+A21=_ "C:\Users\zhangtaotao\Desktop\走得过程容易停跑得还行\src\common\startup.c" ""
+Count=22
+SuppressDialog=1
